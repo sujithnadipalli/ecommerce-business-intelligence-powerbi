@@ -152,7 +152,7 @@ Other time-based and business analysis features
 
 Business-focused exploratory analysis was performed to identify trends and patterns that could later be converted into meaningful KPIs and dashboard visuals.
 
-## 🗄️ SQL Business Analysis
+###🗄️ SQL Business Analysis
 
 SQL was used to perform structured business analysis across the e-commerce data.
 
