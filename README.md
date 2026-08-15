@@ -157,6 +157,17 @@ Business-focused exploratory analysis was performed to identify trends and patte
 
 # 🗄️ SQL Business Analysis
 
+```text
+SQL/
+│
+├── 01_Business_Overview.sql
+├── 02_Customer_Analysis.sql
+├── 03_Sales_Analysis.sql
+├── 04_Product_Analysis.sql
+├── 05_Customer Satisfaction Analysis.sql
+└── 06_Advanced queries.sql
+```
+
 SQL was used to perform structured business analysis across the e-commerce data.
 
 ## Sales Analysis
