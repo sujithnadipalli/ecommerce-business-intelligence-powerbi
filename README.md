@@ -268,6 +268,8 @@ Explore the complete interactive dashboard here:
 ## 1️⃣ Executive Overview
 
 The Executive Overview provides a high-level summary of overall e-commerce business performance.
+### 📊 Dashboard Preview
+
 ![Executive Overview](01_Executive%20overview.png)
 
 ### Key KPIs
@@ -320,6 +322,8 @@ This page helps identify revenue concentration, sales trends, and customer purch
 ## 3️⃣ Product Analytics
 
 The Product Analytics dashboard focuses on product and category performance.
+### 📊 Dashboard Preview
+
 ![Product Analytics](03_product%20analytics.png)
 
 ### Main Analysis
@@ -338,6 +342,8 @@ This page helps identify strong-performing products and categories and understan
 ## 4️⃣ Operations Analytics
 
 The Operations Analytics dashboard focuses on order fulfillment, delivery efficiency, and logistics performance.
+### 📊 Dashboard Preview
+
 ![Operations Analytics](04_operations%20Analytics.png)
 
 
@@ -366,6 +372,8 @@ This page helps identify operational efficiency, delivery delays, and logistics 
 ## 5️⃣ Seller's Performance
 
 The Seller's Performance dashboard evaluates seller-level business performance.
+### 📊 Dashboard Preview
+
 ![Seller Performance](05_sellers%26performance.png)
 ### Key KPIs
 
