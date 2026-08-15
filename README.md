@@ -294,26 +294,27 @@ This page provides management with a quick overview of the overall business.
 ## 2️⃣ Sales & Customers Analytics
 
 This dashboard focuses on sales performance and customer purchasing behavior.
-![Sales & Customers Analytics](02_sales%20%26%20customer.png)
+
+### 📊 Dashboard Preview
+
+![Sales & Customers Analytics](images/02_Sales_Customer_Analytics.png)
 
 ### Key KPIs
 
-* Total Revenue
-* Total Orders
-* Total Customers
-* Average Order Value
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
 
 ### Main Analysis
 
-* Monthly Revenue Trend
-* Top 10 States by Revenue
-* Revenue by Payment Method
-* Average Order Value by State
-* Customer-related sales analysis
+- Monthly Revenue Trend
+- Top 10 States by Revenue
+- Revenue by Payment Method
+- Average Order Value by State
+- Customer-related sales analysis
 
 This page helps identify revenue concentration, sales trends, and customer purchasing patterns.
-
----
 
 ## 3️⃣ Product Analytics
 
