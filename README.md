@@ -202,4 +202,132 @@ Subqueries
 CTEs
 Window Functions
 Business KPI calculations
-    
+---
+
+# 📑 Dashboard Pages
+
+## 1️⃣ Executive Overview
+
+![Executive Overview](01_Executive%20overview.png)
+
+### Overview
+
+The Executive Overview provides a high-level summary of overall e-commerce business performance.
+
+### Key KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Average Rating
+- Average Delivery Days
+
+### Main Analysis
+
+- Monthly Revenue Trend
+- Top Product Categories
+- Revenue by State
+- Payment Method Distribution
+- Top Cities by Orders
+
+---
+
+## 2️⃣ Sales & Customers Analytics
+
+![Sales & Customers Analytics](02_sales%20%26customer.png)
+
+### Overview
+
+This dashboard focuses on sales performance and customer purchasing behavior.
+
+### Key KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+
+### Main Analysis
+
+- Monthly Revenue Trend
+- Top 10 States by Revenue
+- Revenue by Payment Method
+- Average Order Value by State
+- Customer-related sales analysis
+
+---
+
+## 3️⃣ Product Analytics
+
+![Product Analytics](03_product%20analytics.png)
+
+### Overview
+
+The Product Analytics dashboard focuses on product and category performance.
+
+### Main Analysis
+
+- Product performance
+- Product categories
+- Product revenue contribution
+- Customer demand
+- Product-level performance
+- Category-level analysis
+
+---
+
+## 4️⃣ Operations Analytics
+
+![Operations Analytics](04_operations%20Analytics.png)
+
+### Overview
+
+The Operations Analytics dashboard focuses on order fulfillment, delivery efficiency, and logistics performance.
+
+### Key KPIs
+
+- Total Orders
+- Average Delivery Days
+- On-Time Deliveries
+- Late Deliveries
+- On-Time Delivery Rate
+- Average Freight Value
+
+### Main Analysis
+
+- Monthly Delivery Performance
+- Delivery Status
+- Delivery Performance by State
+- Freight Analysis
+- Late Delivery Analysis
+- Order Fulfillment Performance
+
+---
+
+## 5️⃣ Seller's Performance
+
+![Seller's Performance](05_sellers%26performance.png)
+
+### Overview
+
+The Seller's Performance dashboard evaluates seller-level business performance.
+
+### Key KPIs
+
+- Total Sellers
+- Total Orders
+- Total Sales
+- Average Order Value
+- Average Seller Rating
+
+### Main Analysis
+
+- Top 10 Sellers by Revenue
+- Top 10 Sellers by Average Rating
+- Monthly Sales by Sellers
+- Seller Revenue by State
+- Seller Performance Comparison
+- Order Fulfilled vs Cancelled
+
+---
