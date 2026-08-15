@@ -107,4 +107,48 @@ Python/
 ├── 03_Master_Dataset.ipynb
 ├── 04_Feature_Engineering.ipynb
 └── 05_Business_EDA.ipynb
+
+01 — Data Import
+
+The initial datasets were imported and inspected to understand:
+
+Dataset structure
+Number of records
+Column names
+Data types
+Missing values
+Duplicate records
+Basic statistics
+02 — Exploratory Data Analysis
+
+EDA was performed to understand patterns across:
+
+Orders
+Customers
+Sellers
+Products
+Payments
+Reviews
+Revenue
+Delivery performance
+03 — Master Dataset
+
+Relevant datasets were prepared and combined into a consolidated master dataset.
+
+The master dataset was created as a common analytical source for SQL analysis and Power BI reporting.
+
+04 — Feature Engineering
+
+Additional analytical features were created to support business analysis, including:
+
+Order Year
+Order Month
+Purchase-related attributes
+Delivery-related attributes
+Late delivery indicators
+Time-based analytical features
+Other business-related features
+05 — Business EDA
+
+Business-focused exploratory analysis was performed to identify trends and patterns that could later be converted into business KPIs and Power BI dashboard visuals.
     
