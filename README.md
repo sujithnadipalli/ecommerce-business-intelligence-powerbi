@@ -268,6 +268,7 @@ Explore the complete interactive dashboard here:
 ## 1️⃣ Executive Overview
 
 The Executive Overview provides a high-level summary of overall e-commerce business performance.
+![Executive Overview](01_Executive%20overview.png)
 
 ### Key KPIs
 
