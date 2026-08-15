@@ -151,4 +151,55 @@ Other business-related features
 05 — Business EDA
 
 Business-focused exploratory analysis was performed to identify trends and patterns that could later be converted into business KPIs and Power BI dashboard visuals.
+
+#  🗄️ SQL Business Analysis
+
+SQL was used to perform structured business analysis across the e-commerce data.
+
+Sales Analysis
+Total revenue
+Total orders
+Average order value
+Revenue by state
+Monthly sales trends
+State-level performance
+Customer Analysis
+Customer distribution
+Customer locations
+Customer purchasing behavior
+Customer-related sales metrics
+Product Analysis
+Product performance
+Product categories
+Product revenue
+Product-level analysis
+Category performance
+Seller Analysis
+Seller revenue
+Seller orders
+Seller ratings
+Seller performance
+Seller comparisons
+Seller performance by state
+Operations Analysis
+Delivery performance
+Average delivery days
+On-time deliveries
+Late deliveries
+Freight analysis
+Order status analysis
+Fulfillment performance
+SQL Concepts Used
+SELECT
+WHERE
+ORDER BY
+GROUP BY
+HAVING
+Aggregate Functions
+CASE WHEN
+JOINs
+Subqueries
+CTEs
+Window Functions
+Business KPI calculations
     
