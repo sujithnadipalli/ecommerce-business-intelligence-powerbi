@@ -81,11 +81,11 @@ The processed master dataset is included in this repository as:
 
 ---
 
-# 🐍 Python Data Preparation & Analysis
+## 🐍 Python Data Preparation & Analysis
 
-Python was used for data import, data cleaning, exploratory data analysis, master dataset creation, feature engineering, and business-focused analysis.
+Python was used for data import, data cleaning, exploratory data analysis, and feature engineering.
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - Pandas
@@ -94,7 +94,7 @@ Python was used for data import, data cleaning, exploratory data analysis, maste
 - Jupyter Notebook
 - VS Code
 
-## Python Workflow
+### Python Workflow
 
 ```text
 Python/
@@ -104,7 +104,19 @@ Python/
 ├── 03_Master_Dataset.ipynb
 ├── 04_Feature_Engineering.ipynb
 └── 05_Business_EDA.ipynb
+```
 
+## 🗄️ SQL Analysis
 
+SQL was used for data querying, analysis, aggregation, joins, and business insights.
 
-sujith
+### SQL Workflow
+
+```text
+SQL/
+│
+├── 01_Data_Exploration.sql
+├── 02_Data_Cleaning.sql
+├── 03_Business_Analysis.sql
+└── 04_Final_Queries.sql
+```
