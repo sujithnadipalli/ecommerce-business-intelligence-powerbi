@@ -297,7 +297,7 @@ This dashboard focuses on sales performance and customer purchasing behavior.
 
 ### 📊 Dashboard Preview
 
-![Sales & Customers Analytics](images/02_Sales_Customer_Analytics.png)
+![Sales & Customers Analytics](02_sales%20%26customer.png)
 
 ### Key KPIs
 
@@ -315,6 +315,7 @@ This dashboard focuses on sales performance and customer purchasing behavior.
 - Customer-related sales analysis
 
 This page helps identify revenue concentration, sales trends, and customer purchasing patterns.
+
 
 ## 3️⃣ Product Analytics
 
