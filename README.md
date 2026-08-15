@@ -294,6 +294,7 @@ This page provides management with a quick overview of the overall business.
 ## 2️⃣ Sales & Customers Analytics
 
 This dashboard focuses on sales performance and customer purchasing behavior.
+![Sales & Customers Analytics](02_sales%20%26%20customer.png)
 
 ### Key KPIs
 
@@ -317,6 +318,7 @@ This page helps identify revenue concentration, sales trends, and customer purch
 ## 3️⃣ Product Analytics
 
 The Product Analytics dashboard focuses on product and category performance.
+![Product Analytics](03_product%20analytics.png)
 
 ### Main Analysis
 
@@ -334,6 +336,8 @@ This page helps identify strong-performing products and categories and understan
 ## 4️⃣ Operations Analytics
 
 The Operations Analytics dashboard focuses on order fulfillment, delivery efficiency, and logistics performance.
+![Operations Analytics](04_operations%20Analytics.png)
+
 
 ### Key KPIs
 
@@ -360,7 +364,7 @@ This page helps identify operational efficiency, delivery delays, and logistics 
 ## 5️⃣ Seller's Performance
 
 The Seller's Performance dashboard evaluates seller-level business performance.
-
+![Seller Performance](05_sellers%26performance.png)
 ### Key KPIs
 
 * Total Sellers
