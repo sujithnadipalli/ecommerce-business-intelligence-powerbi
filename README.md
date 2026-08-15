@@ -152,7 +152,7 @@ Other time-based and business analysis features
 
 Business-focused exploratory analysis was performed to identify trends and patterns that could later be converted into meaningful KPIs and dashboard visuals.
 
-🗄️ SQL Business Analysis
+## 🗄️ SQL Business Analysis
 
 SQL was used to perform structured business analysis across the e-commerce data.
 
@@ -228,7 +228,7 @@ Explore the complete interactive Power BI dashboard here:
 
 Open Interactive Power BI Dashboard
 
-📑 Dashboard Pages
+### 📑 Dashboard Pages
 1️⃣ Executive Overview
 
 The Executive Overview provides a high-level summary of the overall e-commerce business.
@@ -246,12 +246,12 @@ Top Product Categories
 Revenue by State
 Payment Method Distribution
 Top Cities by Orders
+![Executive Overview](01_Executive%20overview.png)
 
-![Executive Overview](01_Executive overview.png)
 
 This page provides management with a quick overview of overall business performance.
 
-2️⃣ Sales & Customers Analytics
+### 2️⃣ Sales & Customers Analytics
 
 This dashboard focuses on sales performance and customer purchasing behavior.
 
